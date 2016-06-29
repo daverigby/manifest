@@ -25,7 +25,7 @@
   <project name="indexing" revision="watson" path="goproj/src/github.com/couchbase/indexing"/>
   <project name="memcached" revision="4.5.0" groups="kv"/>
   <project name="moxi" revision="5ab60b49048b8f6d93386a30ff743a8e5daa7c7a" groups="kv"/>
-  <project name="ns_server" revision="watson"/>
+  <project name="ns_server" revision="77629b20d72ad70633b0342a80b8d3e316462d16"/>
   <project name="platform" revision="ae2a7a24251ceb0b3204c6ca9ee0630a20640def" groups="kv"/>
   <project name="query" revision="4491b2a3ca95e3bca86c86aec03dbc8a9c3d447c" path="goproj/src/github.com/couchbase/query"/>
   <project name="query-ui" revision="2a90a12514021a9c954c90a8ded7c6bfd4a521a2"/>
